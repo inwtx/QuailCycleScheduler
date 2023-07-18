@@ -5,6 +5,8 @@ This program can be used to keep track of a 75 day Coturnix quail cycle.  It can
 <BR><BR>
 To begin a 75 day cycle, click on the icon next to the 'Quail Incubation Start Date' and select the day the eggs went into the incubator.
 <BR><BR>
+Note: This program is in beta.
+<BR><BR>
 <b>Main<b/>
 <BR><BR>
 ![image](https://github.com/inwtx/QuailCycleScheduler/assets/32821617/70307306-942e-4d76-bbcf-4a8fdb5ce51b)

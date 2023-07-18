@@ -13,11 +13,11 @@ to download.
 <BR><BR>
 <b>Main<b/>
 <BR><BR>
-![image](https://github.com/inwtx/QuailCycleScheduler/assets/32821617/70307306-942e-4d76-bbcf-4a8fdb5ce51b)
+![image](https://github.com/inwtx/QuailCycleScheduler/assets/32821617/ffbacbb1-0d47-413c-aafb-92066832734f)
 <BR><BR>
 <b>Parameters<b/>
 <BR><BR>
-![image](https://github.com/inwtx/QuailCycleScheduler/assets/32821617/981d9690-51d6-48ef-841d-4eef17fb2162)
+![image](https://github.com/inwtx/QuailCycleScheduler/assets/32821617/7cffe69b-7e79-42a4-9acb-d873eaadd29e)
 <BR><BR>
 <b>Help<b/>
 <BR><BR>

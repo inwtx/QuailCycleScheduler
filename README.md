@@ -21,7 +21,7 @@ to download.
 <BR><BR>
 <b>Help<b/>
 <BR><BR>
-![image](https://github.com/inwtx/QuailCycleScheduler/assets/32821617/2d00a410-d491-4742-ae55-bead3e0f813f)
+![image](https://github.com/inwtx/QuailCycleScheduler/assets/32821617/2d9c0062-f9ac-47eb-a8d6-faf6aeaf41a4)
 
 <BR><BR>
 <BR><BR>

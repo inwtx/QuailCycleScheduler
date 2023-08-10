@@ -1,4 +1,4 @@
-# Quail Cycle Scheduler v2.01
+# Quail Cycle Scheduler v2.02
 Program to keep track of 75 day Coturnix quail raising period.
 
 This program can be used to keep track of a 75 day Coturnix quail cycle.  It can be formatted for raising other types of quail for a 75 day period.  The program covers the incubating, brooding, grow-out, and an additional 5 days for mature incubator egg collection periods.  Date can be highlighted with up to 9 colors.  Clicking on the day number under a highlighted date will display a message corresponding to the color.  Messages can also be posted on given days at program start and throughout any chosen days.  Multiple Quail Cycle Scheduler programs can be run simultaneously.

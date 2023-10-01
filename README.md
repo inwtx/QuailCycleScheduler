@@ -1,6 +1,6 @@
 # Quail Cycle Scheduler v2.09
 
-# NOTE: This program has a bug that I will not be able to fix because Github is now requiring 2FA that requires a phone number.  I do not have a phone number that I can give to Gitrhub, so this project is dead.
+NOTE: This program has a bug that I will not be able to fix because Github is now requiring 2FA that requires a phone number.  I do not have a phone number that I can give to Gitrhub, so this project is dead.
 
 Program to keep track of 75 day Coturnix quail raising period.
 
